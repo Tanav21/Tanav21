@@ -1,4 +1,4 @@
-![logo](https://github.com/Tanav21/Tanav21/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner.png)
+![logo]([https://github.com/Tanav21/Tanav21/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner.png](https://github.com/Tanav21/Tanav21/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner.png))
 <h1 align="center">Hi 👋, I'm Tanav Mahendru</h1>
 <h3 align="center">Frontend developer</h3>
 
